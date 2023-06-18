@@ -1,5 +1,6 @@
 ## 😎 About Me
-| ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) | hello world |
+:-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif)
+--: hello world
 
 <!-- <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
 hello world -->
