@@ -1,19 +1,8 @@
 ## 😎 About Me
-<!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif)  -->
-<div class="row">
-	<!-- !Column 1 -->
-  <div class="column">
-	<img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
-  </div>
-	<!-- !Column 2 -->
-  <div class="column">
-	Hello World
-  </div>
-</div>
+| ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) | hello world |
 
-<div class="row">
-	<img>
-</div>
+<!-- <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
+hello world -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/willems24) 
