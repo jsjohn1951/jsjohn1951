@@ -3,7 +3,7 @@
 <div class="row">
 	<!-- !Column 1 -->
   <div class="column">
-	<img src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
+	<img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
   </div>
 	<!-- !Column 2 -->
   <div class="column">
@@ -12,6 +12,7 @@
 </div>
 
 <div class="row">
+	<img>
 </div>
 
 ## 🌐 Socials:
