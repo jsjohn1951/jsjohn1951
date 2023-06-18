@@ -1,7 +1,8 @@
-# 😎 About Me
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
 
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
+
+# 😎 About Me
 hello world
 
 ---
