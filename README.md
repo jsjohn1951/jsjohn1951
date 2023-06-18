@@ -7,6 +7,8 @@ Hi, I'm Willem J. Smith.
 
 To provide innovative solutions to complex problems is to further the development of technologies that would propel the human species into a new age of exploration. My goal is simply to play a part in producing that outcome. Though I cannot claim to be an expert in anything, I further my own development by the continual study of new technologies and code, staying up to date with the latest frameworks and how to implement them.
 
+---
+
 # Quote
 "The moment we stop learning is the moment we stagnate, and though learning in the real world is seldom unaccompanied by hardship it's also an experience."
 
