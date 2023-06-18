@@ -3,7 +3,10 @@
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
 
 # 😎 About Me
-hello world
+To provide innovative solutions to complex problems is to further the development of technologies that would propel the human species into a new age of exploration. My goal is simply to play a part in producing that outcome. Though I cannot claim to be an expert in anything, I further my own development by the continual study of new technologies and code, staying up to date with the latest frameworks and how to implement them.
+
+<p align="center">"THE MOMENT WE STOP LEARNING IS THE MOMENT WE STAGNATE, AND THOUGH LEARNING IN THE REAL WORLD IS SELDOM UNACCOMPANIED BY HARDSHIP IT'S ALSO AN EXPERIENCE."</p>
+<p align="center">- WILLEM J. SMITH</p>
 
 ---
 
