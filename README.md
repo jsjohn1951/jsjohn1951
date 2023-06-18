@@ -1,8 +1,8 @@
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
 
-<img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
-
 # About Me
+
+<img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">\
 Hi, I'm Willem J. Smith.
 
 To provide innovative solutions to complex problems is to further the development of technologies that would propel the human species into a new age of exploration. My goal is simply to play a part in producing that outcome. Though I cannot claim to be an expert in anything, I further my own development by the continual study of new technologies and code, staying up to date with the latest frameworks and how to implement them.
