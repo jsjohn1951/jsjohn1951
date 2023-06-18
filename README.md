@@ -1,5 +1,8 @@
+## 😎 About Me
+<!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif)  -->
+<img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">
 
-![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/UcvF.gif)
+Hello World
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/willems24) 
@@ -16,9 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jsjohn1951&icon=2&color=0)](https://visitcount.itsvg.in)
