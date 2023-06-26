@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
+![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187)
 
 # About Me
-![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187)
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">\
 Hi, I'm Willem J. Smith.
 
