@@ -1,5 +1,8 @@
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
-![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187)
+<!-- ![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187) -->
+# 42 Milestones
+<img align="left" src="https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187" alt="wismith's 42 stats" />
+![wismith's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964788)
 
 # About Me
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">\
@@ -26,8 +29,5 @@ To provide innovative solutions to complex problems is to further the developmen
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/willems24) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
