@@ -1,9 +1,7 @@
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
-<!-- ![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187) -->
-# 42 Milestones
-<img align="left" src="https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187" alt="wismith's 42 stats">
 
-ft_containers - ![wismith's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964788)
+# 42 Milestone
+![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187)
 
 # About Me
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">\
