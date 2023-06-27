@@ -31,31 +31,35 @@ To provide innovative solutions to complex problems is to further the developmen
 
 ##  :notebook_with_decorative_cover: 42 cursus (Sept 26 2021 ~)
 
+<div align="center">
+
 | #----# | Project                                                      |            Language            |                            Score                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Libft**] |               C                        |  [![wismith's 42 Libft Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2354846)]|
-|   02   | [**get_next_line**] |               C                | [![wismith's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2392515)]|
-|   03   | [**ft_printf**] |               C                    | [![wismith's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2453781)]|
-|   04   | [**Born2beroot**] |       System Administration      | [![wismith's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2462766)]|
-|   05   | [**Minitalk**] |               C                     | [![wismith's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2529101)]|
-|   06   | [**so_long**] |                  C                   | [![wismith's 42 so_long Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2564926)]|
-|   07   | [**Exam Rank 02**] |               C                 | [![wismith's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2573886)]|
-|   08   | [**push_swap**] |               C                    | [![wismith's 42 push_swap Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2580934)]|
-|   09   | [**Philosophers**] |            C                    | [![wismith's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2600474)]|
-|   10   | [**Exam Rank 03**] |               C                 | [![wismith's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2586368)]|
-|   11   | [**Minishell**] |               C                    | [![wismith's 42 minishell Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2599876)]|
-|   12   | [**CPP00**] |                    C++                 | [![wismith's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2847112)]|
-|   13   | [**CPP01**] |                    C++                 | [![wismith's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2853338)]|
-|   14   | [**Netpractice**] |           Network/IP             | [![wismith's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2821998)]|
-|   15   | [**CPP02**] |                    C++                 | [![wismith's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2858831)]|
-|   16   | [**CPP03**] |                    C++                 | [![wismith's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2898983)]|
-|   17   | [**CPP04**] |                    C++                 | [![wismith's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2905379)]|
-|   18   | [**CPP05**] |                    C++                 | [![wismith's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2911425)]|
-|   19   | [**CPP06**] |                    C++                 | [![wismith's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2918601)]|
-|   20   | [**CPP07**] |                    C++                 | [![wismith's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2922817)]|
-|   21   | [**CPP08**] |                    C++                 | [![wismith's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2923822)]|
-|   22   | [**Exam Rank 04**] |             C                   | [![wismith's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2926188)]|
-|   23   | [**cub3d**] |                   C                    | [![wismith's 42 cub3d Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2820548)]|
-|   24   | [**ft_containers**] |            C++                 | [![wismith's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964788)]|
-|   25   | [**ft_irc**] |                   C++                 | [![wismith's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/3093461)]|
-|   26   | [**Inception**] |          Sys Admin & Deployment    | [![wismith's 42 Inception Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964789)]|
+|   01   | [**Libft**] |               C                        |  ![wismith's 42 Libft Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2354846)|
+|   02   | [**get_next_line**] |               C                | ![wismith's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2392515)|
+|   03   | [**ft_printf**] |               C                    | ![wismith's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2453781)|
+|   04   | [**Born2beroot**] |       System Administration      | ![wismith's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2462766)|
+|   05   | [**Minitalk**] |               C                     | ![wismith's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2529101)|
+|   06   | [**so_long**] |                  C                   | ![wismith's 42 so_long Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2564926)|
+|   07   | [**Exam Rank 02**] |               C                 | ![wismith's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2573886)|
+|   08   | [**push_swap**] |               C                    | ![wismith's 42 push_swap Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2580934)|
+|   09   | [**Philosophers**] |            C                    | ![wismith's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2600474)|
+|   10   | [**Exam Rank 03**] |               C                 | ![wismith's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2586368)|
+|   11   | [**Minishell**] |               C                    | ![wismith's 42 minishell Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2599876)|
+|   12   | [**CPP00**] |                    C++                 | ![wismith's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2847112)|
+|   13   | [**CPP01**] |                    C++                 | ![wismith's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2853338)|
+|   14   | [**Netpractice**] |           Network/IP             | ![wismith's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2821998)|
+|   15   | [**CPP02**] |                    C++                 | ![wismith's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2858831)|
+|   16   | [**CPP03**] |                    C++                 | ![wismith's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2898983)|
+|   17   | [**CPP04**] |                    C++                 | ![wismith's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2905379)|
+|   18   | [**CPP05**] |                    C++                 | ![wismith's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2911425)|
+|   19   | [**CPP06**] |                    C++                 | ![wismith's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2918601)|
+|   20   | [**CPP07**] |                    C++                 | ![wismith's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2922817)|
+|   21   | [**CPP08**] |                    C++                 | ![wismith's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2923822)|
+|   22   | [**Exam Rank 04**] |             C                   | ![wismith's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2926188)|
+|   23   | [**cub3d**] |                   C                    | ![wismith's 42 cub3d Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2820548)|
+|   24   | [**ft_containers**] |            C++                 | ![wismith's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964788)|
+|   25   | [**ft_irc**] |                   C++                 | ![wismith's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/3093461)|
+|   26   | [**Inception**] |          Sys Admin & Deployment    | ![wismith's 42 Inception Score](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/project/2964789)|
+
+</div>
