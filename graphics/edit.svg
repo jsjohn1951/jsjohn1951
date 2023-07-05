@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+		<style>
+			.Row {
+    			display: table;
+    			width: 100%; /*Optional*/
+    			table-layout: fixed; /*Optional*/
+    			border-spacing: 10px; /*Optional*/
+			}
+			.Column {
+    			display: table-cell;
+    			background-color: red; /*Optional*/
+			}
+            </style>
+			<div class="Row">
+    			<div class="Column">
+					<img src="https://github-readme-stats.vercel.app/api?username=jsjohn1951&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+				</div>
+    			<div class="Column">
+					<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsjohn1951&theme=tokyonight&hide_border=false">
+				</div>
+    			<div class="Column">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjohn1951&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+				</div>
+			</div>
+        </div>
+    </foreignObject>
+</svg>
