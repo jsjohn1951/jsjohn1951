@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif) -->
 
 # 42 Milestone
-![wismith's 42 stats](https://badge42.vercel.app/api/v2/cljdfmj8o001108mk9cpopdzu/stats?cursusId=21&coalitionId=187)
+[![wismith's 42 stats](https://badge.mediaplus.ma/greenbinary/wismith?UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## About Me
 <img align="left" src="https://github.com/jsjohn1951/jsjohn1951/blob/main/graphics/falloutBoy.gif">\
